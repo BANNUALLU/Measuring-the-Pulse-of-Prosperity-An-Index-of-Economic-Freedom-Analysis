@@ -31,6 +31,10 @@ https://drive.google.com/file/d/12UNmVteTlPfChN_rUbNJlqbyM-7x3ST3/view?usp=shari
 
 https://drive.google.com/file/d/16AfljczdVtQCMH2_iy4JIwMeYU_0nsc3/view?usp=sharing
 
+💻 Live Web Application (Deployed):
+
+http://44.204.241.224
+
 
 
 © 2025 Measuring the Pulse of Prosperity Project
