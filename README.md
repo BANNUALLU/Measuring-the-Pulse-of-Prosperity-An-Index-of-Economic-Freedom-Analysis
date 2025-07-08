@@ -55,6 +55,12 @@ public Dashboard link : https://public.tableau.com/views/BANNUALLU/Dashboard4?:l
 
 🖥️ story Pages: https://public.tableau.com/views/BANNUSTORY/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+
+💻 Live Web Application (Deployed):
+
+http://44.204.241.224
+
+
 ---
 
 
