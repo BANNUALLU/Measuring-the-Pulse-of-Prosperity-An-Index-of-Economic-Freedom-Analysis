@@ -25,6 +25,10 @@ https://drive.google.com/file/d/12UNmVteTlPfChN_rUbNJlqbyM-7x3ST3/view?usp=shari
 ## 🛠️ Technologies Used
 - Tableau Public for interactive visualizations  
 
+HTML/CSS – For frontend structure and design
+
+AWS EC2 – For deploying the web application and hosting it live via a public IP
+
 
 ---
 ## 🌐 Live Application  
